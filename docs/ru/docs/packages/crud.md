@@ -617,4 +617,4 @@ public static function createToastMessage(): string
 }
 ```
 
-Вы можете узнать больше на стрвнице [Laravel localization](https://laravel.com/docs/localization).
+Вы можете узнать больше на странице [Laravel localization](https://laravel.com/docs/localization).
